@@ -1,0 +1,9 @@
+#root {
+
+}
+.wider-box {
+    width: 1000%; /* Adjust the width as needed */
+    max-width: 1200px; /* Optional: Set a maximum width */
+    margin: 0 auto; /* Center the box */
+    transform: translateX(-25%); /* Move the box 50% to the left */
+}
