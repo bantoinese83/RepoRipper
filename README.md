@@ -34,6 +34,8 @@ work with your codebases more effectively.
 
 ```
 git clone https://github.com/bantoinse83/RepoRipper.git
+
+cd RepoRip_v1
 ```
 ```
 cd client
