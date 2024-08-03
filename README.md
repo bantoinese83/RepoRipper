@@ -32,23 +32,23 @@ work with your codebases more effectively.
 
 1. **Clone the Repository:**
 
-```
+```bash
 git clone https://github.com/bantoinse83/RepoRipper.git
 ```
-```
+```bash
 cd RepoRip_v1
 ```
-```
+```bash
 cd client
 ```
-```
+```bash
 npm install
 ```
 
-```
+```bash
 cd server
 ```
-```
+```bash
 pip install -r requirements.txt
 ```
 2. **Set Up Environment Variables:** Create a `.env` file in the `server` directory and add the following variables:
