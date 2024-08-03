@@ -32,20 +32,23 @@ work with your codebases more effectively.
 
 1. **Clone the Repository:**
 
-```bash
+```
 git clone https://github.com/bantoinse83/RepoRipper.git
 ```
+```
+cd client
 
-```bash
 npm install
- ```
+```
 
-```bash
+```
+cd server
+
 pip install -r requirements.txt
 ```
 2. **Set Up Environment Variables:** Create a `.env` file in the `server` directory and add the following variables:
 
-```bash
+```
 JWT_SECRET_KEY=your_secret_key
 JWT_ALGORITHM=HS256  # Or your preferred algorithm
 GOOGLE_CLIENT_ID=your_google_client_id
