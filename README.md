@@ -34,18 +34,21 @@ work with your codebases more effectively.
 
 ```
 git clone https://github.com/bantoinse83/RepoRipper.git
-
+```
+```
 cd RepoRip_v1
 ```
 ```
 cd client
-
+```
+```
 npm install
 ```
 
 ```
 cd server
-
+```
+```
 pip install -r requirements.txt
 ```
 2. **Set Up Environment Variables:** Create a `.env` file in the `server` directory and add the following variables:
